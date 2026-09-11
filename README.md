@@ -79,6 +79,11 @@ An interactive Looker Studio dashboard was created to monitor:
 - Monthly order trends
 - State-level performance
 
+## Project Links
+
+- **Google Sheets Assessment:** [Open Google Sheet](https://docs.google.com/spreadsheets/d/1YI-QXxgB4_NQDT2eo2cQ9sokBccl9vdFAoK5WwVjnmg/edit?gid=765953795#gid=765953795)
+- **Looker Studio Dashboard:** [Open Interactive Dashboard](https://datastudio.google.com/u/0/reporting/1501d98b-f7c6-434b-afcd-44f0b673e2b9/page/jRg8F)
+
 ## Limitations
 
 - Some delivered orders had missing delivery dates.
